@@ -1,4 +1,7 @@
+(He/him) Astrophysics researcher at the Department of Physics and Astronomy, University of Padova.
+
 Currently working on stellar pulsation during advanced evolutionary stages.
+
 Mainly using python, fortran.
 
 <!--
