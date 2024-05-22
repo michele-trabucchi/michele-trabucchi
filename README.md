@@ -1,4 +1,5 @@
-## Hi there 👋
+Currently working on stellar pulsation during advanced evolutionary stages.
+Mainly using python, fortran.
 
 <!--
 **michele-trabucchi/michele-trabucchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
